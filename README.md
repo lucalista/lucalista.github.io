@@ -20,7 +20,7 @@ I am a particle physicist working on experimental data analysis, statistical met
 
 ## Software
 
-### Shine Stacker
+### [Shine Stacker](https://shinestacker.wordpress.com/)
 
 Open-source focus-stacking software for macro photography and microscopy.
 
