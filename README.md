@@ -14,6 +14,10 @@ I am a particle physicist working on experimental data analysis, statistical met
 * [LinkedIn](https://www.linkedin.com/in/lucalista/)
 * [GitHub](https://github.com/lucalista)
 
+## Books
+
+[<img height="300" src="img/978-3-031-19934-9.png" alt="Book cover">](https://link.springer.com/book/10.1007/978-3-031-19934-9) [<img height="300" src="img/978-3-032-29848-5.png" alt="Book cover">](https://link.springer.com/book/9783032298485)
+
 ## Software
 
 ### Shine Stacker
